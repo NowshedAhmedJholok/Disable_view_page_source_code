@@ -1,4 +1,4 @@
-# Disable-View_page_source_code
+# Disable View Page Source (ctrl+u) in html project
 
 When you put a lot of effort into creating a portfolio website, watch the demo live. The code of this website cannot be taken by anyone by looking at the "view source code". So you can turn off "ctrl + u" or f12 if you want. For that you can use the following script ( js )  in my mail file (HTML).
 
